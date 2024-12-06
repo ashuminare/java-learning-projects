@@ -1,0 +1,4 @@
+first file for repo.
+
+following the book:
+https://learning.oreilly.com/library/view/learn-java-with/9781837637188/
